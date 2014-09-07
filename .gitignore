@@ -4,6 +4,12 @@
 *.o
 *.obj
 
+# Qt Moc generator
+moc_*.cpp
+moc_*.c++
+moc_*.cxx
+moc_*.cc
+
 # Compiled Dynamic libraries
 *.so
 *.dylib
